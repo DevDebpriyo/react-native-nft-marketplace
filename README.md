@@ -1,4 +1,5 @@
-#file:ss.png
+
+![Project Screenshot](./ss.png)
 
 # React Native NFT Marketplace (pronef)
 
