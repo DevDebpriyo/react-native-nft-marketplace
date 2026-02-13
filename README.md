@@ -1,3 +1,5 @@
+#file:ss.png
+
 # React Native NFT Marketplace (pronef)
 
 A minimal, modern NFT marketplace UI built with React Native + Expo — clean components, responsive layouts, and example data so you can prototype NFT browsing and bidding quickly.
